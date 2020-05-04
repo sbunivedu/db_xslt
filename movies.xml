@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-
+<!--
 <?xml-stylesheet type="text/xsl" href="list_movies.xslt"?>
-
+-->
 <Movies>
   <Movie title = "King Kong">
     <Version year = "1933" poster="images/kingkong_1933.jpg">
