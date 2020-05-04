@@ -8,11 +8,11 @@ You can use https://www.freeformatter.com/xsl-transformer.html to test the solut
 
 `list_movies2.xslt` extracts a list of movie names from `movies.xml`:
 ```html
-  King Kong<br/>
-  Footloose<br/>
+  King Kong
+  Footloose
 ```
 
-`list_movies2.xslt` uses the `xsl:for-each` tag to put the movie names as `h1` headings in a HTML file.
+`list_movies.xslt` uses the `xsl:for-each` tag to put the movie names as `h1` headings in a HTML file.
 ```html
 <html>
    <head>
