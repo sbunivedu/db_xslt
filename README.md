@@ -88,7 +88,7 @@ You can use https://www.freeformatter.com/xsl-transformer.html to test the solut
 </table>
 ```
 
-#Product Data
+# Product Data
 Write XSLT stylesheets to produce each of the following documents using `products.xml`.
 An HTML file consisting of a header "Manufacturers" followed by an enumerated list of the names of all the makers of products listed in the input.
 
